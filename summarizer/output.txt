@@ -1,0 +1,2 @@
+Summary of bay.txt:
+Technology 4.0, often referred to as the Fourth Industrial Revolution, represents a fundamental shift in the way industries operate. It is characterized by the fusion of physical and digital worlds, leading to unprecedented levels of efficiency, productivity, and innovation. One of the core components of Technology 4. 0 is the smart factory, where machinery and equipment are interconnected through IoT.
